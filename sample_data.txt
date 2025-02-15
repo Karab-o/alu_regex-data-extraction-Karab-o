@@ -1,0 +1,9 @@
+Here is some sample data:
+Contact us at user@example.com or firstname.lastname@company.co.uk.
+Visit our website at https://www.example.com or https://subdomain.example.org/page.
+Call us at (123) 456-7890, 123-456-7890, or 123.456.7890.
+Our credit card number is 1234 5678 9012 3456 or 1234-5678-9012-3456.
+Meeting is scheduled for 14:30 or 2:30 PM.
+Some HTML tags: <p>, <div class="example">, <img src="image.jpg" alt="description">
+Check out these hashtags: #example, #ThisIsAHashtag.
+Prices are $19.99 and $1,234.56.
