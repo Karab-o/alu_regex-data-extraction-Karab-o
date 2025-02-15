@@ -9,8 +9,8 @@ This project demonstrates the use of regular expressions to extract various type
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <alu_regex-data-extraction-Karab-o>
+   git clone https://github.com/Karab-o/alu_regex-data-extraction-Karab-o
+   cd alu_regex-data-extraction-Karab-o
 2. Run the script
    ```bash
-   python regex_data_extractor.py
+   python3 regex_data_extractor.py
